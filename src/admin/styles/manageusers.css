@@ -1,0 +1,28 @@
+.ant-upload.ant-upload-select.ant-upload-select-picture{
+    display: block;
+    line-height: normal;
+
+}
+
+.ant-upload.ant-upload-select.ant-upload-select-picture > span{
+    display: block;
+    line-height: normal;
+
+}
+
+.ant-upload.ant-upload-select.ant-upload-select-picture > span > button{
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    font-size: 1.1rem;
+    border: 2px rgba(56, 56, 56, 0.788) solid;
+    border-radius: 5px;
+}
+
+.ant-upload.ant-upload-select.ant-upload-select-picture > span > button:hover{
+    color: rgba(56, 56, 56, 0.788);
+}
+
+.ant-upload.ant-upload-select.ant-upload-select-picture > span > button > *{
+    
+}
